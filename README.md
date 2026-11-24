@@ -1,6 +1,6 @@
 # Install YOLOv8 in CPU Mode on Windows
 
-This project demonstrates object detection with Ultralytics YOLOv8 on a Windows computer without requiring a GPU. The included `detect.sh` records the original command-line example; the commands below can be run in PowerShell.
+This project demonstrates object detection with Ultralytics YOLOv8 on a Windows computer without requiring a GPU. The included `detect.sh` runs inference on the bundled sample image; the equivalent commands below can be run in PowerShell.
 
 ## Setup
 
