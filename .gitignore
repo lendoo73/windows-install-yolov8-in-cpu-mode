@@ -1,0 +1,15 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local configuration and IDE files
+.env
+.idea/
+.vscode/
+
+# Inference output and downloaded official weights
+runs/
+yolov8l.pt
+
